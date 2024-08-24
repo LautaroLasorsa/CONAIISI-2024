@@ -1,5 +1,4 @@
-pandas
-numpy
-cuml
-scikit-learn
-matplotlib
+pandas # Trabajo con datasets
+numpy  # Metodos númericos
+scikit-learn # Metodos de ML sencillos
+matplotlib # Gráficos
