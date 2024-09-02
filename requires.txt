@@ -2,3 +2,5 @@ pandas # Trabajo con datasets
 numpy  # Metodos númericos
 scikit-learn # Metodos de ML sencillos
 matplotlib # Gráficos
+tqdm # Mostrar progreso
+ipywidgets # interactive HTML widgets for Jupyter notebooks and the IPython kernel.
